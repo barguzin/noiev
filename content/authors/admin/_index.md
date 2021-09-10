@@ -3,50 +3,53 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Geographic Information Systems
+    institution: UC Santa Barbara, CA, USA
+    year: 2018 - now
+  - course: MA in Data Science
+    institution: UC Santa Barbara, CA, USA
+    year: 2021 (anticipated)
+  - course: MA in Organizational Change and Leadership
+    institution: Malmo University, Malmo, Sweden
+    year: 2015
+  - course: MS in Urban and Regional Planning
+    institution: University of Iowa, IA, USA
+    year: 2013
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatial Statistics
+- Geographic Information Science and Systems
+- Geovisualization 
+- Big Data Mining 
+- Spatiotemporal Modeling
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: UC Santa Barbara
+  url: https://www.geog.ucsb.edu/people/students/evgeny-noi
+role: Ph.D. Candidate
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  #icon: twitter
+  #icon_pack: fab
+  #label: Follow me on Twitter
+  #link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=fpMQPTwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/barguzin
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/evgenynoi/
 superuser: true
-title: Nelson Bighetti
+title: Evgeny Noi
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Evgeny Noi is a quantitive geographer currently pursuing a Ph.D. degree in Geography Department at UC Santa Barbara. His research interests include spatial statistics, data science and spatially explicit modeling. He is a primary investigator at Move Lab UCSB, which tests and develops exploratory tools for mapping and analyzing human and animal mobility.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
