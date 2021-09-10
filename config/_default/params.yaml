@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: evgeny.noi@gmail.com
+email: noi [at] ucsb [.] edu
 #phone: 888 888 88 88
 address:
   street: Ellison Hall, UC Santa Barbara
@@ -34,8 +34,7 @@ coordinates:
   longitude: '-119.84508633716798'
 #directions: Enter Ellison Hall and take the stairs to Office 5721 on Floor 5
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'FALL 2021 - GEOG 176A - Monday 13:00 to 15:00'
 appointment_url: 'https://tidycal.com/noi'
 contact_links:
   #- icon: twitter
